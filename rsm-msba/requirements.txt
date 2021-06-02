@@ -228,7 +228,7 @@ typesentry==0.2.7
 typing-extensions==3.7.4.2
 tzlocal==2.1
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.5
 vincent==0.4.4
 virtualenv==20.0.17
 w3lib==1.22.0
